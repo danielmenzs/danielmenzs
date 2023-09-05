@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Daniel Menezes 🤘
 
-- 🚀 Sou apaixonado por tecnologia e desenvolvimento de software
+- 🚀 Apaixonado por tecnologia, desenvolvimento de software e open source.
 - 🔭 Atualmente, estou focado em desenvolvimento web, IoT e aprendizado de máquina.
-- 🌱 Estou sempre aprendendo e aprimorando minhas habilidades
+- 🌱 Sempre buscando aprender e compartilhar conhecimento com a comunidade.
 - 🤝 Estou aberto a colaborações e projetos interessantes, sinta-se à vontade para entrar em contato!
 ##
 ![Daniel Menezes GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmenzs&show_icons=true&theme=github_dark_dimmed)
@@ -29,4 +29,4 @@
 [![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/dan_menzs)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniel.menzs/)
 
-## Vamos construir um mundo melhor através da tecnologia! 🌍✨
+## Vamos construir um mundo melhor através da tecnologia! 🌍✨ 👋
