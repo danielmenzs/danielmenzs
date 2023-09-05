@@ -1,4 +1,4 @@
-## Olá! Eu sou o Daniel Menezes 🤘
+# Olá! Eu sou o Daniel Menezes <img alt="mysql" height="40" whdth="40" src="https://www.emojiall.com/images/240/microsoft-teams/1f44b.png"/>
 
 - 🚀 Apaixonado por tecnologia, desenvolvimento de software e open source.
 - 🔭 Atualmente, estou focado em desenvolvimento web, IoT e aprendizado de máquina.
@@ -29,4 +29,4 @@
 [![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/dan_menzs)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniel.menzs/)
 
-## Vamos construir um mundo melhor através da tecnologia! 🌍✨ 👋
+## Vamos construir um mundo melhor através da tecnologia! 🌍✨
